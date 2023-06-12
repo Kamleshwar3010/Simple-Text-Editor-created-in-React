@@ -1,4 +1,3 @@
-# Getting Started with Create React App
 # Simple-Text-editor-using-React
 This is my first React app I created a simple text editor which counts letters and word from the given text and convert them to upper case and lower case. I learned the use of state from this app
 
